@@ -24,7 +24,7 @@ vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API tha
 # Installation (Docker)
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 # Installation (Manual)
